@@ -24,7 +24,7 @@ public class Main {
                 return;
             }
 
-            JFrame frame = new JFrame("Project 1 - Discrete Curves");
+            JFrame frame = new JFrame("Java2d3d_Project 1");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setSize(800, 600);
 
